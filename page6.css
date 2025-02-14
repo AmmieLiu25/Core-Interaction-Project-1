@@ -1,0 +1,194 @@
+.bodytext-container {
+    position: absolute;
+    height: 100vh;
+    width:100vw; 
+    z-index: 10; 
+}
+
+.bodytext {
+    font-family: "Source Serif Pro";
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#if {
+    position: absolute;
+    top: 10%; 
+    left: 15%;
+    color: #172058;
+}
+
+#diamond1 {
+    position: absolute;
+    top: 18%;
+    left: 13%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#I {
+    position: absolute;
+    top: 20%; 
+    left: 22%;
+    color: #22216C; 
+}
+
+#diamond2 {
+    position: absolute;
+    top: 28%;
+    left: 19.5%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#whistle {
+    position: absolute;
+    top: 25%; 
+    left: 30%;
+    color: #342A5B; 
+}
+
+#diamond3 {
+    position: absolute;
+    top: 33%;
+    left: 28%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#and {
+    position: absolute;
+    top: 35%; 
+    left: 45%;
+    color: #392D56; 
+}
+
+#diamond4 {
+    position: absolute;
+    top: 43%;
+    left: 48%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#intrude {
+    position: absolute;
+    top: 45%; 
+    left: 55%;
+    color: #362A5A; 
+}
+
+#diamond5 {
+    position: absolute;
+    top: 53%;
+    left: 53%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#in {
+    position: absolute;
+    top: 60%; 
+    left: 60%;
+    color: #1A2760; 
+}
+
+#diamond6 {
+    position: absolute;
+    top: 68%;
+    left: 62%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#your {
+    position: absolute;
+    top: 70%; 
+    left: 65%;
+    color: #1A2760; 
+}
+
+#diamond7 {
+    position: absolute;
+    top: 68%;
+    left: 62%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#dancing {
+    position: absolute;
+    top: 75%; 
+    left: 75%;
+    color: #1A2760; 
+}
+
+#diamond8 {
+    position: absolute;
+    top: 83%;
+    left: 72%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
+
+#game {
+    position: absolute;
+    top: 80%; 
+    left: 85%;
+    color: #1A2760; 
+}
+
+#diamond9 {
+    position: absolute;
+    top: 88%;
+    left: 82%;
+    width: 1.5rem; 
+    height: 1.5rem; 
+    background-image: url("homepage-star.png");
+    background-size: cover;
+    background-position: center;
+    display: block;
+    text-decoration: none;
+}
