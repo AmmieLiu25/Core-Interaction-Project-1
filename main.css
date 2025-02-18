@@ -1,7 +1,7 @@
 body {
     margin: 0;
     overflow: hidden;
-    background: black;
+    transition: all 0.5s ease-in-out;
 }
   
 .aurora-container {
@@ -69,10 +69,6 @@ body {
     display: block;
     text-decoration: none;
 }
-
-/*.diamond:hover {
-    filter: brightness(2);
-}*/
   
 .bg-image {
     position: fixed; 
@@ -81,4 +77,17 @@ body {
     background-image: url("bg1.png");
     background-size: cover; 
     z-index: -1;
+}
+@media screen and (max-width: 800px) {
+    .diamond{
+        width:2rem;
+        height:2rem; 
+        top: 45%;
+        left: 45%;
+    }
+
+    .headline {
+        font-size: 5rem; 
+    }
+    
 }
